@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend-Development**
 
-- ⚡ Fun fact **I think I am funny :D**
+- ⚡ Fun fact **I am brutally honest (fun or not)?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
